@@ -1,1 +1,1 @@
-# 4-islem-hesap-makinesi
+4islem-hesap-makinesi
